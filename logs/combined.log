@@ -1,0 +1,12 @@
+2025-03-25 11:57:57:5757 [32minfo[39m: [32mLogger initialized with level: info[39m
+2025-03-25 13:43:58:4358 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-25 13:43:58:4358 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-25 13:44:04:444 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-25 13:44:04:444 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-25 13:47:01:471 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-25 13:47:02:472 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-25 13:52:52:5252 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-25 13:52:53:5253 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-25 13:55:50:5550 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-25 13:55:50:5550 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-25 13:55:50:5550 [31merror[39m: [31mTidak dapat terhubung ke database: password gagal diotentikasi untuk pengguna  � postgres �[39m
