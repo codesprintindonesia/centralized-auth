@@ -5,6 +5,7 @@ import express from 'express';
 import authRoutes from './auth.route.js';
 import userRoutes from './user.route.js';
 import adminRoutes from './admin.route.js';
+import mfaRoutes from './mfa.route.js'; 
 import { notFoundHandler, errorHandler } from '../middlewares/error.middleware.js';
 
 const router = express.Router();
@@ -29,6 +30,7 @@ router.get('/health', (req, res) => {
 router.use('/api/v1/auth', authRoutes);
 router.use('/api/v1/users', userRoutes);
 router.use('/api/v1/admin', adminRoutes);
+router.use('/api/v1/mfa', mfaRoutes);
 
 /**
  * Middleware untuk 404 dan error handling

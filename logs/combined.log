@@ -10,3 +10,39 @@
 2025-03-25 13:55:50:5550 [32minfo[39m: [32mLogger initialized with level: debug[39m
 2025-03-25 13:55:50:5550 [32minfo[39m: [32mModel associations setup completed[39m
 2025-03-25 13:55:50:5550 [31merror[39m: [31mTidak dapat terhubung ke database: password gagal diotentikasi untuk pengguna  � postgres �[39m
+2025-03-25 13:58:11:5811 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-25 13:58:11:5811 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-25 13:58:12:5812 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-25 13:58:12:5812 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-25 13:58:12:5812 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-25 13:58:12:5812 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-25 16:33:42:3342 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-25 16:33:43:3343 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-25 16:33:43:3343 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-25 16:34:05:345 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-25 16:34:05:345 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-25 16:34:05:345 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-25 16:34:19:3419 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-25 16:34:20:3420 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-25 16:34:20:3420 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-25 16:34:20:3420 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-25 16:34:20:3420 [32minfo[39m: [32mHTTP server enabled on port 3001[39m
+2025-03-25 16:34:20:3420 [32minfo[39m: [32mHTTP Server listening on port 3001[39m
+2025-03-26 10:02:30:230 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 10:02:30:230 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 10:02:31:231 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 10:02:31:231 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 10:02:31:231 [32minfo[39m: [32mHTTP server enabled on port 3001[39m
+2025-03-26 10:02:31:231 [32minfo[39m: [32mHTTP Server listening on port 3001[39m
+2025-03-26 10:02:48:248 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 10:02:49:249 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 10:02:49:249 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 10:02:49:249 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 10:02:49:249 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 10:02:49:249 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 10:02:52:252 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 10:21:59:2159 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 10:53:16:5316 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 10:57:52:5752 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 10:58:02:582 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 10:58:31:5831 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m

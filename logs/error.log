@@ -1,1 +1,3 @@
 2025-03-25 13:55:50:5550 [31merror[39m: [31mTidak dapat terhubung ke database: password gagal diotentikasi untuk pengguna  � postgres �[39m
+2025-03-25 16:33:43:3343 [31merror[39m: [31mHTTP Server Error: listen EADDRINUSE: address already in use :::3000[39m
+2025-03-25 16:34:05:345 [31merror[39m: [31mHTTP Server Error: listen EADDRINUSE: address already in use :::3000[39m
