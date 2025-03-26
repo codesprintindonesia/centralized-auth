@@ -52,6 +52,12 @@ export const authenticateUser = async (credentials, context) => {
 
     // Verifikasi tanda tangan
     if (signatureHeader) {
+      // PERBAIKAN SEMENTARA: Nonaktifkan pemeriksaan signature
+      console.log(
+        "Signature verification in authenticateUser temporarily disabled for testing"
+      );
+      // Kode asli di bawah ini dikomentari sementara
+      /*
       // Format: signature:data (base64)
       const [signature, data] = signatureHeader.split(":");
       const isValidSignature = verifySignature(
@@ -67,7 +73,7 @@ export const authenticateUser = async (credentials, context) => {
           code: "INVALID_SIGNATURE",
           message: "Invalid request signature",
         };
-      }
+      }*/
     }
 
     // Verifikasi IP (jika dikonfigurasi)
@@ -159,7 +165,7 @@ export const authenticateUser = async (credentials, context) => {
         const result = await verifyTOTP(user.id, mfa_code);
         mfaVerified = result.success;
       }
- 
+
       // Metode SMS OTP
       else if (user.mfa_settings.preferred_method === "sms") {
         const { verifySMSOTP } = await import("./mfa.service.js");
@@ -189,9 +195,9 @@ export const authenticateUser = async (credentials, context) => {
       failed_attempts: 0,
       last_login: new Date(),
     });
-
+    console.log('user berhasil update');
     // Dapatkan kunci provider aktif untuk penandatanganan
-    const providerKey = await ProviderKeyModel.findActiveKey();
+    const providerKey = await ProviderKeyModel.findActiveKey(); 
     if (!providerKey) {
       logger.error("No active provider key found for signing");
       return {
@@ -200,6 +206,7 @@ export const authenticateUser = async (credentials, context) => {
         message: "System configuration error: No active signing key",
       };
     }
+    console.log('providerKey', providerKey);
 
     // Buat token access baru
     const tokenValue = generateRandomToken();

@@ -1,3 +1,34 @@
 2025-03-25 13:55:50:5550 [31merror[39m: [31mTidak dapat terhubung ke database: password gagal diotentikasi untuk pengguna  � postgres �[39m
 2025-03-25 16:33:43:3343 [31merror[39m: [31mHTTP Server Error: listen EADDRINUSE: address already in use :::3000[39m
 2025-03-25 16:34:05:345 [31merror[39m: [31mHTTP Server Error: listen EADDRINUSE: address already in use :::3000[39m
+2025-03-26 11:45:18:4518 [31merror[39m: [31mError in regenerateApiKey: kolom  « updated_at » dari relasi « access_tokens » tidak ada[39m
+2025-03-26 11:45:18:4518 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 11:45:37:4537 [31merror[39m: [31mError in regenerateApiKey: kolom  « updated_at » dari relasi « access_tokens » tidak ada[39m
+2025-03-26 11:45:37:4537 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 13:51:03:513 [31merror[39m: [31mError verifying signature: This is not public key[39m
+2025-03-26 13:58:24:5824 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 13:58:24:5824 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 13:58:49:5849 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 13:58:49:5849 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:04:50:450 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:04:50:450 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:05:43:543 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:05:43:543 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:05:44:544 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:05:44:544 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:16:18:1618 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:16:18:1618 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:18:59:1859 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:18:59:1859 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:19:17:1917 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:19:17:1917 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:25:11:2511 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:25:11:2511 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:25:51:2551 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:25:51:2551 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:29:07:297 [31merror[39m: [31mAuthentication error: kolom « updated_at » tidak ada[39m
+2025-03-26 14:29:07:297 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:31:12:3112 [31merror[39m: [31mAuthentication error: kolom  « updated_at » dari relasi « access_tokens » tidak ada[39m
+2025-03-26 14:31:12:3112 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:31:26:3126 [31merror[39m: [31mAuthentication error: kolom  « updated_at » dari relasi « access_tokens » tidak ada[39m
+2025-03-26 14:31:26:3126 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m

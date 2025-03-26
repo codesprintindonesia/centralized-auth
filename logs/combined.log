@@ -46,3 +46,870 @@
 2025-03-26 10:57:52:5752 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
 2025-03-26 10:58:02:582 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
 2025-03-26 10:58:31:5831 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:26:05:265 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:26:05:265 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:26:06:266 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:26:06:266 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:26:06:266 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:26:06:266 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:26:26:2626 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:28:22:2822 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:28:51:2851 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:29:22:2922 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:29:37:2937 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:29:46:2946 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:30:09:309 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:31:58:3158 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:34:45:3445 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:34:58:3458 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:34:58:3458 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:34:58:3458 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:34:58:3458 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:34:58:3458 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:34:58:3458 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:35:01:351 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:35:43:3543 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:39:08:398 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:39:27:3927 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:39:31:3931 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:40:58:4058 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:40:58:4058 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:40:58:4058 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:40:58:4058 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:40:58:4058 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:40:58:4058 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:41:01:411 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:41:01:411 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:41:02:412 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:41:02:412 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:41:02:412 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:41:02:412 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:41:09:419 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:41:09:419 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:41:09:419 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:41:09:419 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:41:09:419 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:41:09:419 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:41:15:4115 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:41:15:4115 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:41:15:4115 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:41:15:4115 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:41:15:4115 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:41:15:4115 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:41:19:4119 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:41:39:4139 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:42:56:4256 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:42:56:4256 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:42:57:4257 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:42:57:4257 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:42:57:4257 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:42:57:4257 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:42:58:4258 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:43:45:4345 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:43:46:4346 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:43:46:4346 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:43:46:4346 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:43:46:4346 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:43:46:4346 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:43:49:4349 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:43:50:4350 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:43:50:4350 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:43:50:4350 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:43:50:4350 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:43:50:4350 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:44:05:445 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:44:05:445 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:44:06:446 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:44:06:446 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:44:06:446 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:44:06:446 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:44:08:448 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 11:44:29:4429 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:44:29:4429 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:44:29:4429 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:44:29:4429 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:44:29:4429 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:44:29:4429 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:45:16:4516 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:45:16:4516 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:45:16:4516 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:45:16:4516 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:45:16:4516 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:45:16:4516 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:45:18:4518 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '043849df-2174-46c4-8b98-b6d27ec8034c';[39m
+2025-03-26 11:45:18:4518 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."api_consumers" SET "api_key_hash"='4700ef01a72eb7e60c17edd9fe6f557363f6132cbc145018f9495809b33c1a38',"api_key_salt"='7c6d65458a29161f',"updated_at"='2025-03-26 03:45:18.606 +00:00' WHERE "id" = '043849df-2174-46c4-8b98-b6d27ec8034c'[39m
+2025-03-26 11:45:18:4518 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."access_tokens" SET "is_revoked"=true,"revoked_at"='2025-03-26 03:45:18.669 +00:00',"updated_at"='2025-03-26 03:45:18.671 +00:00' WHERE "consumer_id" = '043849df-2174-46c4-8b98-b6d27ec8034c' AND "is_revoked" = false[39m
+2025-03-26 11:45:18:4518 [31merror[39m: [31mError in regenerateApiKey: kolom  « updated_at » dari relasi « access_tokens » tidak ada[39m
+2025-03-26 11:45:18:4518 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 11:45:36:4536 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:45:36:4536 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:45:36:4536 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:45:36:4536 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:45:36:4536 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:45:36:4536 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:45:37:4537 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '043849df-2174-46c4-8b98-b6d27ec8034c';[39m
+2025-03-26 11:45:37:4537 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."api_consumers" SET "api_key_hash"='1a4fb242fe6661171512f1deab1f24cb7a16d1c01aa75d99d953759af47170f6',"api_key_salt"='668fd077d34215c3',"updated_at"='2025-03-26 03:45:37.743 +00:00' WHERE "id" = '043849df-2174-46c4-8b98-b6d27ec8034c'[39m
+2025-03-26 11:45:37:4537 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."access_tokens" SET "is_revoked"=true,"revoked_at"='2025-03-26 03:45:37.766 +00:00',"updated_at"='2025-03-26 03:45:37.767 +00:00' WHERE "consumer_id" = '043849df-2174-46c4-8b98-b6d27ec8034c' AND "is_revoked" = false[39m
+2025-03-26 11:45:37:4537 [31merror[39m: [31mError in regenerateApiKey: kolom  « updated_at » dari relasi « access_tokens » tidak ada[39m
+2025-03-26 11:45:37:4537 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 11:45:51:4551 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 11:45:51:4551 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 11:45:51:4551 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 11:45:51:4551 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 11:45:51:4551 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 11:45:51:4551 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 11:45:52:4552 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'Example Consumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 13:03:57:357 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:03:58:358 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:03:58:358 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:03:58:358 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:03:58:358 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:03:58:358 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:04:05:45 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:04:06:46 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:04:06:46 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:04:06:46 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:04:06:46 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:04:06:46 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:04:14:414 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:04:14:414 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:04:14:414 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:04:14:414 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:04:14:414 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:04:14:414 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:04:18:418 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:04:18:418 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:04:19:419 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:04:19:419 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:04:19:419 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:04:19:419 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:04:36:436 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:04:37:437 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:04:37:437 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:04:37:437 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:04:37:437 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:04:37:437 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:04:38:438 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:04:38:438 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:04:39:439 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:04:39:439 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:04:39:439 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:04:39:439 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:05:35:535 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:05:36:536 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:05:36:536 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:05:36:536 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:05:36:536 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:05:36:536 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:05:39:539 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:05:40:540 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:05:40:540 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:05:40:540 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:05:40:540 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:05:40:540 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:05:54:554 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:05:55:555 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:05:55:555 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:05:55:555 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:05:55:555 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:05:55:555 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:06:02:62 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:06:03:63 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:06:03:63 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:06:03:63 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:06:03:63 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:06:03:63 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:06:15:615 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:06:16:616 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:06:16:616 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:06:16:616 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:06:16:616 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:06:16:616 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:06:19:619 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:06:20:620 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:06:20:620 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:06:20:620 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:06:20:620 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:06:20:620 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:06:48:648 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:06:48:648 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:06:49:649 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:06:49:649 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:06:49:649 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:06:49:649 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:06:58:658 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:06:58:658 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:06:58:658 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:06:58:658 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:06:59:659 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:06:59:659 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:07:15:715 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:07:16:716 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:07:16:716 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:07:16:716 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:07:16:716 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:07:16:716 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:07:25:725 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:07:25:725 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:07:25:725 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:07:25:725 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:07:25:725 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:07:25:725 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:09:41:941 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:09:41:941 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:09:42:942 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:09:42:942 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:09:42:942 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:09:42:942 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:10:01:101 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:10:02:102 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:10:02:102 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:10:02:102 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:10:02:102 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:10:02:102 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:10:05:105 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:10:05:105 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:10:05:105 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:10:05:105 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:10:05:105 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:10:05:105 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:11:55:1155 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:11:56:1156 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:11:56:1156 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:11:56:1156 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:11:56:1156 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:11:56:1156 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:12:00:120 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:12:00:120 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:12:01:121 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:12:01:121 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:12:01:121 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:12:01:121 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:12:43:1243 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:12:43:1243 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:12:43:1243 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:12:43:1243 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:12:43:1243 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:12:43:1243 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:13:12:1312 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:13:12:1312 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:13:13:1313 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:13:13:1313 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:13:13:1313 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:13:13:1313 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:13:17:1317 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:13:18:1318 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:13:18:1318 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:13:18:1318 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:13:18:1318 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:13:18:1318 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:13:41:1341 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:13:41:1341 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:13:41:1341 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:13:41:1341 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:13:41:1341 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:13:41:1341 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:13:46:1346 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:13:47:1347 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:13:47:1347 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:13:47:1347 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:13:47:1347 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:13:47:1347 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:14:46:1446 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:14:46:1446 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:14:46:1446 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:14:46:1446 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:14:46:1446 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:14:46:1446 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:15:37:1537 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:15:37:1537 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:15:38:1538 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:15:38:1538 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:15:38:1538 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:15:38:1538 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:15:43:1543 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:15:43:1543 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:15:43:1543 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:15:43:1543 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:15:43:1543 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:15:43:1543 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:18:21:1821 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:18:21:1821 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:18:22:1822 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:18:22:1822 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:18:22:1822 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:18:22:1822 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:18:24:1824 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:18:25:1825 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:18:25:1825 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:18:25:1825 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:18:25:1825 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:18:25:1825 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:18:58:1858 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:18:58:1858 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:18:58:1858 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:18:58:1858 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:18:58:1858 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:18:58:1858 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:19:03:193 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:19:03:193 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:19:03:193 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:19:03:193 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:19:03:193 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:19:03:193 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:19:47:1947 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:19:47:1947 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:19:47:1947 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:19:47:1947 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:19:47:1947 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:19:47:1947 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:19:50:1950 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:19:51:1951 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:19:51:1951 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:19:51:1951 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:19:51:1951 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:19:51:1951 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:20:55:2055 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:20:56:2056 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:20:56:2056 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:20:56:2056 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:20:56:2056 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:20:56:2056 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:21:04:214 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:21:05:215 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:21:05:215 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:21:05:215 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:21:05:215 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:21:05:215 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:21:14:2114 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:21:14:2114 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:21:14:2114 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:21:14:2114 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:21:14:2114 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:21:14:2114 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:21:26:2126 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:21:27:2127 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:21:27:2127 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:21:27:2127 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:21:27:2127 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:21:27:2127 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:22:48:2248 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:22:48:2248 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:22:48:2248 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:22:48:2248 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:22:48:2248 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:22:48:2248 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:26:54:2654 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:26:54:2654 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:26:55:2655 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:26:55:2655 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:26:55:2655 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:26:55:2655 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:26:59:2659 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:27:00:270 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:27:00:270 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:27:00:270 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:27:00:270 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:27:00:270 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:27:17:2717 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:27:17:2717 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:27:18:2718 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:27:18:2718 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:27:18:2718 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:27:18:2718 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:27:20:2720 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:27:21:2721 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:27:21:2721 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:27:21:2721 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:27:21:2721 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:27:21:2721 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:30:07:307 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:30:08:308 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:30:12:3012 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."api_consumers" ("id","name","api_key_hash","api_key_salt","public_key","key_algorithm","key_version","allowed_ips","is_active","created_at","updated_at") VALUES ('24c01536-fb7f-48ff-aca7-c16baba6a3f8','TestConsumer','b86c76e1d593d7a788368894ef4daf92c80974e35e913e03476e4227e16464cb','21ac61ab047ed01e','-----BEGIN PUBLIC KEY-----[39m
+[34mMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt4mOaoMxTeK/+vhUFnEa[39m
+[34mPb0zu3dQO2T15i66fgnSvx/NimrT5Tz3D944wzXImc7doA2zVjup2+DEaDiOwFxb[39m
+[34mRNbfZxdFlN6Cr7V0o8Jnd+6+BRuFoF/pakleMtiFX6+sW534hIDAs2zf5EXPe3lj[39m
+[34mt3Y1A3hZm/HS2AJRSL15naSluWTeEbtGaI2TF+pAQyMiZiBbq1PxBgWjCJcax7jZ[39m
+[34myJHVjgNt7jx2noSTempPcgsaWT4UxXKAyRKS+JmH7VM8x43xEExEF6JRmjf4C1cX[39m
+[34m+GQQj4P01t+R81VjBInESv2oy1VXFVI3/hOBQ5cQDjuoE+RT8vxdZSM4F9T30Q0Q[39m
+[34mTQIDAQAB[39m
+[34m-----END PUBLIC KEY-----','RSA-2048',1,ARRAY[]::INET[],true,'2025-03-26 05:30:12.659 +00:00','2025-03-26 05:30:12.659 +00:00') RETURNING "id","name","api_key_hash","api_key_salt","public_key","key_algorithm","key_version","allowed_ips","is_active","created_at","updated_at";[39m
+2025-03-26 13:33:24:3324 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 13:33:34:3334 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 13:34:08:348 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:34:08:348 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:34:10:3410 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."api_consumers" ("id","name","api_key_hash","api_key_salt","public_key","key_algorithm","key_version","allowed_ips","is_active","created_at","updated_at") VALUES ('de47c4fc-257c-494f-a32c-0c7edef7549f','TestConsumer','0b5fd9c5ca511a64359ed28e07335cd15ac12b190eeb0066db1d7a4e823eaff9','fa4ae7b2d4a036d0','-----BEGIN PUBLIC KEY-----[39m
+[34mMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgPgY5aLbZsQpvEopkzE8[39m
+[34mDp+F4MBZeoTJfXABVxqQTDyVKptGBLTP6S4wrGPvaCOMr2HLQPfxqsL9FCoW/3CA[39m
+[34mZ/xVBFw0PVgUTlTBRvM/IAuqD6BhHIjI5afNXIkumvvMT/0tule9F2zHslnHVhJA[39m
+[34mlzx1DBTzlQuMvLq7rgqSPPCjCgH5m6h54Ly8of2uY+h90Oi90x1tvkQL+a6Ryi35[39m
+[34mOQa/DbSEswz4RKnwBk6MBM5XDvwRxPJcaVTZhh74ybQwEEBmOpKy149ouBYvtYHc[39m
+[34mg2pAFCxh9T3wbzD6Qf7LM1mV/y3Hqgsjg+mKjXRvlBvWJoMHZB9kqdv1NZWVFYeR[39m
+[34mUwIDAQAB[39m
+[34m-----END PUBLIC KEY-----','RSA-2048',1,ARRAY[]::INET[],true,'2025-03-26 05:34:10.090 +00:00','2025-03-26 05:34:10.090 +00:00') RETURNING "id","name","api_key_hash","api_key_salt","public_key","key_algorithm","key_version","allowed_ips","is_active","created_at","updated_at";[39m
+2025-03-26 13:34:44:3444 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:34:44:3444 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:34:44:3444 [34mdebug[39m: [34mExecuting (f416f44e-83eb-4622-8028-9405449290dc): START TRANSACTION;[39m
+2025-03-26 13:34:44:3444 [34mdebug[39m: [34mExecuting (f416f44e-83eb-4622-8028-9405449290dc): SAVEPOINT "f416f44e-83eb-4622-8028-9405449290dc-sp-1";[39m
+2025-03-26 13:34:44:3444 [34mdebug[39m: [34mExecuting (f416f44e-83eb-4622-8028-9405449290dc): SELECT "id", "name", "description", "priority", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."roles" AS "Role" WHERE "Role"."name" = 'admin';[39m
+2025-03-26 13:34:44:3444 [34mdebug[39m: [34mExecuting (f416f44e-83eb-4622-8028-9405449290dc): INSERT INTO "auth"."users" ("id","username","email","password_hash","salt","mfa_settings","is_active","is_locked","failed_attempts","password_changed_at","created_at","updated_at") VALUES ('305789a2-e0e3-4d7c-ab72-b0293d531c19','admin','admin@example.com','$2b$10$/PnjlyavJqzt51X1g6zMletozfavJ.vCF7bqm1icjA5s0q8Uaa34O','$2b$10$/PnjlyavJqzt51X1g6zMle','{"enabled":false,"preferred_method":null}',true,false,0,'2025-03-26 05:34:44.897 +00:00','2025-03-26 05:34:44.897 +00:00','2025-03-26 05:34:44.897 +00:00') RETURNING "id","username","email","password_hash","salt","mfa_settings","is_active","is_locked","failed_attempts","last_login","password_changed_at","created_by","updated_by","created_at","updated_at";[39m
+2025-03-26 13:34:44:3444 [34mdebug[39m: [34mExecuting (f416f44e-83eb-4622-8028-9405449290dc): ROLLBACK;[39m
+2025-03-26 13:35:23:3523 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:35:24:3524 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:35:24:3524 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:35:24:3524 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:35:24:3524 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:35:24:3524 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:35:42:3542 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:35:42:3542 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:35:42:3542 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:35:42:3542 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:35:42:3542 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:35:42:3542 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:36:32:3632 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:36:32:3632 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:36:32:3632 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:36:32:3632 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:36:32:3632 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:36:32:3632 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:36:44:3644 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:36:45:3645 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:36:45:3645 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:36:45:3645 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:36:45:3645 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:36:45:3645 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:36:49:3649 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:36:49:3649 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:36:49:3649 [34mdebug[39m: [34mExecuting (1a8dcbd1-7836-4a1e-910b-67f2ecc4a31a): START TRANSACTION;[39m
+2025-03-26 13:36:49:3649 [34mdebug[39m: [34mExecuting (1a8dcbd1-7836-4a1e-910b-67f2ecc4a31a): SAVEPOINT "1a8dcbd1-7836-4a1e-910b-67f2ecc4a31a-sp-1";[39m
+2025-03-26 13:36:49:3649 [34mdebug[39m: [34mExecuting (1a8dcbd1-7836-4a1e-910b-67f2ecc4a31a): SELECT "id", "name", "description", "priority", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."roles" AS "Role" WHERE "Role"."name" = 'superadmin';[39m
+2025-03-26 13:36:49:3649 [34mdebug[39m: [34mExecuting (1a8dcbd1-7836-4a1e-910b-67f2ecc4a31a): CREATE OR REPLACE FUNCTION pg_temp.testfunc(OUT response "auth"."roles", OUT sequelize_caught_exception text) RETURNS RECORD AS $func_beaaccfe3f8a4568bf58775503775776$ BEGIN INSERT INTO "auth"."roles" ("id","name","description","priority","created_at","updated_at") VALUES ('7fa2aaa3-1600-433e-80f2-f7a42a8411a4','superadmin','Administrator role',100,'2025-03-26 05:36:49.279 +00:00','2025-03-26 05:36:49.279 +00:00') RETURNING * INTO response; EXCEPTION WHEN unique_violation THEN GET STACKED DIAGNOSTICS sequelize_caught_exception = PG_EXCEPTION_DETAIL; END $func_beaaccfe3f8a4568bf58775503775776$ LANGUAGE plpgsql; SELECT (testfunc.response)."id", (testfunc.response)."name", (testfunc.response)."description", (testfunc.response)."priority", (testfunc.response)."created_at", (testfunc.response)."updated_at", testfunc.sequelize_caught_exception FROM pg_temp.testfunc(); DROP FUNCTION IF EXISTS pg_temp.testfunc();[39m
+2025-03-26 13:36:49:3649 [34mdebug[39m: [34mExecuting (1a8dcbd1-7836-4a1e-910b-67f2ecc4a31a): INSERT INTO "auth"."users" ("id","username","email","password_hash","salt","mfa_settings","is_active","is_locked","failed_attempts","password_changed_at","created_at","updated_at") VALUES ('5b53eff3-ef8f-4093-aa49-c91ad1089438','superadmin','superadmin@example.com','$2b$10$FoiV/17yRjIiTR9t/WpFYu6oEdLIbvqFtvzy2Jp/4P/njG19iajuq','$2b$10$FoiV/17yRjIiTR9t/WpFYu','{"enabled":false,"preferred_method":null}',true,false,0,'2025-03-26 05:36:49.373 +00:00','2025-03-26 05:36:49.373 +00:00','2025-03-26 05:36:49.373 +00:00') RETURNING "id","username","email","password_hash","salt","mfa_settings","is_active","is_locked","failed_attempts","last_login","password_changed_at","created_by","updated_by","created_at","updated_at";[39m
+2025-03-26 13:36:49:3649 [34mdebug[39m: [34mExecuting (1a8dcbd1-7836-4a1e-910b-67f2ecc4a31a): SELECT "created_at" AS "createdAt", "updated_at" AS "updatedAt", "user_id", "role_id" FROM "auth"."user_roles" AS "user_roles" WHERE "user_roles"."user_id" = '5b53eff3-ef8f-4093-aa49-c91ad1089438' AND "user_roles"."role_id" IN ('7fa2aaa3-1600-433e-80f2-f7a42a8411a4');[39m
+2025-03-26 13:36:49:3649 [34mdebug[39m: [34mExecuting (1a8dcbd1-7836-4a1e-910b-67f2ecc4a31a): ROLLBACK;[39m
+2025-03-26 13:42:49:4249 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:42:50:4250 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:42:50:4250 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:42:50:4250 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:42:50:4250 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:42:50:4250 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:42:58:4258 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:42:59:4259 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:42:59:4259 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:42:59:4259 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:42:59:4259 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:42:59:4259 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:43:12:4312 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:43:12:4312 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:43:12:4312 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:43:12:4312 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'users'[39m
+2025-03-26 13:43:12:4312 [34mdebug[39m: [34mExecuting (default): SELECT pk.constraint_type as "Constraint",c.column_name as "Field", c.column_default as "Default",c.is_nullable as "Null", (CASE WHEN c.udt_name = 'hstore' THEN c.udt_name ELSE c.data_type END) || (CASE WHEN c.character_maximum_length IS NOT NULL THEN '(' || c.character_maximum_length || ')' ELSE '' END) as "Type", (SELECT array_agg(e.enumlabel) FROM pg_catalog.pg_type t JOIN pg_catalog.pg_enum e ON t.oid=e.enumtypid WHERE t.typname=c.udt_name) AS "special", (SELECT pgd.description FROM pg_catalog.pg_statio_all_tables AS st INNER JOIN pg_catalog.pg_description pgd on (pgd.objoid=st.relid) WHERE c.ordinal_position=pgd.objsubid AND c.table_name=st.relname) AS "Comment" FROM information_schema.columns c LEFT JOIN (SELECT tc.table_schema, tc.table_name, cu.column_name, tc.constraint_type FROM information_schema.TABLE_CONSTRAINTS tc JOIN information_schema.KEY_COLUMN_USAGE  cu ON tc.table_schema=cu.table_schema and tc.table_name=cu.table_name and tc.constraint_name=cu.constraint_name and tc.constraint_type='PRIMARY KEY') pk ON pk.table_schema=c.table_schema AND pk.table_name=c.table_name AND pk.column_name=c.column_name WHERE c.table_name = 'users' AND c.table_schema = 'auth'[39m
+2025-03-26 13:43:12:4312 [34mdebug[39m: [34mExecuting (default): SELECT DISTINCT tc.constraint_name as constraint_name, tc.constraint_schema as constraint_schema, tc.constraint_catalog as constraint_catalog, tc.table_name as table_name,tc.table_schema as table_schema,tc.table_catalog as table_catalog,tc.initially_deferred as initially_deferred,tc.is_deferrable as is_deferrable,kcu.column_name as column_name,ccu.table_schema  AS referenced_table_schema,ccu.table_catalog  AS referenced_table_catalog,ccu.table_name  AS referenced_table_name,ccu.column_name AS referenced_column_name FROM information_schema.table_constraints AS tc JOIN information_schema.key_column_usage AS kcu ON tc.constraint_name = kcu.constraint_name JOIN information_schema.constraint_column_usage AS ccu ON ccu.constraint_name = tc.constraint_name WHERE constraint_type = 'FOREIGN KEY' AND tc.table_name = 'users' AND tc.table_catalog = 'centralized_authentication' AND tc.table_schema = 'auth'[39m
+2025-03-26 13:43:12:4312 [34mdebug[39m: [34mExecuting (default): ALTER TABLE "auth"."users" ALTER COLUMN "username" SET NOT NULL;ALTER TABLE "auth"."users" ALTER COLUMN "username" DROP DEFAULT;ALTER TABLE "auth"."users" ALTER COLUMN "username" TYPE VARCHAR(50)  UNIQUE; COMMENT ON COLUMN "auth"."users"."username" IS 'Username untuk login';[39m
+2025-03-26 13:43:59:4359 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:43:59:4359 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:43:59:4359 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:43:59:4359 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'users'[39m
+2025-03-26 13:43:59:4359 [34mdebug[39m: [34mExecuting (default): SELECT pk.constraint_type as "Constraint",c.column_name as "Field", c.column_default as "Default",c.is_nullable as "Null", (CASE WHEN c.udt_name = 'hstore' THEN c.udt_name ELSE c.data_type END) || (CASE WHEN c.character_maximum_length IS NOT NULL THEN '(' || c.character_maximum_length || ')' ELSE '' END) as "Type", (SELECT array_agg(e.enumlabel) FROM pg_catalog.pg_type t JOIN pg_catalog.pg_enum e ON t.oid=e.enumtypid WHERE t.typname=c.udt_name) AS "special", (SELECT pgd.description FROM pg_catalog.pg_statio_all_tables AS st INNER JOIN pg_catalog.pg_description pgd on (pgd.objoid=st.relid) WHERE c.ordinal_position=pgd.objsubid AND c.table_name=st.relname) AS "Comment" FROM information_schema.columns c LEFT JOIN (SELECT tc.table_schema, tc.table_name, cu.column_name, tc.constraint_type FROM information_schema.TABLE_CONSTRAINTS tc JOIN information_schema.KEY_COLUMN_USAGE  cu ON tc.table_schema=cu.table_schema and tc.table_name=cu.table_name and tc.constraint_name=cu.constraint_name and tc.constraint_type='PRIMARY KEY') pk ON pk.table_schema=c.table_schema AND pk.table_name=c.table_name AND pk.column_name=c.column_name WHERE c.table_name = 'users' AND c.table_schema = 'auth'[39m
+2025-03-26 13:43:59:4359 [34mdebug[39m: [34mExecuting (default): SELECT DISTINCT tc.constraint_name as constraint_name, tc.constraint_schema as constraint_schema, tc.constraint_catalog as constraint_catalog, tc.table_name as table_name,tc.table_schema as table_schema,tc.table_catalog as table_catalog,tc.initially_deferred as initially_deferred,tc.is_deferrable as is_deferrable,kcu.column_name as column_name,ccu.table_schema  AS referenced_table_schema,ccu.table_catalog  AS referenced_table_catalog,ccu.table_name  AS referenced_table_name,ccu.column_name AS referenced_column_name FROM information_schema.table_constraints AS tc JOIN information_schema.key_column_usage AS kcu ON tc.constraint_name = kcu.constraint_name JOIN information_schema.constraint_column_usage AS ccu ON ccu.constraint_name = tc.constraint_name WHERE constraint_type = 'FOREIGN KEY' AND tc.table_name = 'users' AND tc.table_catalog = 'centralized_authentication' AND tc.table_schema = 'auth'[39m
+2025-03-26 13:43:59:4359 [34mdebug[39m: [34mExecuting (default): ALTER TABLE "auth"."users" ALTER COLUMN "username" SET NOT NULL;ALTER TABLE "auth"."users" ALTER COLUMN "username" DROP DEFAULT;ALTER TABLE "auth"."users" ALTER COLUMN "username" TYPE VARCHAR(50)  UNIQUE; COMMENT ON COLUMN "auth"."users"."username" IS 'Username untuk login';[39m
+2025-03-26 13:45:23:4523 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:45:24:4524 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:45:24:4524 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:45:24:4524 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:45:24:4524 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:45:24:4524 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:45:27:4527 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:45:27:4527 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:45:28:4528 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."api_consumers" ("id","name","api_key_hash","api_key_salt","public_key","key_algorithm","key_version","allowed_ips","is_active","created_at","updated_at") VALUES ('6c354e28-13ad-4241-bf08-a0db6dbba09e','TestConsumer','dd999fe15c17e6454d49964800d4aa0796ec67813960ff6168ca58f3325300e5','be4077a31d183332','-----BEGIN PUBLIC KEY-----[39m
+[34mMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvOHFStkqMedGFXXSQUmY[39m
+[34m4WPb4s6xVdzRW4UocNb9AjhysmrLA7Uw+50taN+0Lr0u0j/UmsPEqo4ruHeotrun[39m
+[34m7T2EIGkNH4kq/fGGEalOeRAXqrqLJPiianCb+T0aTEFyoOF7rRBh3AzYLNOgdoF3[39m
+[34mCQ8586s5aDTGSZVN9GqthBizZnMKiBTvJk8mSqBW9CbZiO71zTAVyz7n+jWPcfYL[39m
+[34mW0aMNGgjPi9qYqsq7eubpQKSrOL0zfM+Caz9zrEzNZzBtLaUHGClfSr1OeV+LzCr[39m
+[34mS7ADQPf+tcfynMl/pgWgobttXjEpzCGLN8SIGARVHwXJVgwjAXowNsCghsn2ARQM[39m
+[34m4wIDAQAB[39m
+[34m-----END PUBLIC KEY-----','RSA-2048',1,ARRAY[]::INET[],true,'2025-03-26 05:45:27.931 +00:00','2025-03-26 05:45:27.931 +00:00') RETURNING "id","name","api_key_hash","api_key_salt","public_key","key_algorithm","key_version","allowed_ips","is_active","created_at","updated_at";[39m
+2025-03-26 13:46:23:4623 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 13:47:57:4757 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:47:57:4757 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:47:57:4757 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:47:57:4757 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:47:57:4757 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:47:57:4757 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:48:55:4855 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:48:56:4856 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:48:56:4856 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:48:56:4856 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:48:56:4856 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:48:56:4856 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:48:59:4859 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:48:59:4859 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'users'[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT i.relname AS name, ix.indisprimary AS primary, ix.indisunique AS unique, ix.indkey AS indkey, array_agg(a.attnum) as column_indexes, array_agg(a.attname) AS column_names, pg_get_indexdef(ix.indexrelid) AS definition FROM pg_class t, pg_class i, pg_index ix, pg_attribute a, pg_namespace s WHERE t.oid = ix.indrelid AND i.oid = ix.indexrelid AND a.attrelid = t.oid AND t.relkind = 'r' and t.relname = 'users' AND s.oid = t.relnamespace AND s.nspname = 'auth' GROUP BY i.relname, ix.indexrelid, ix.indisprimary, ix.indisunique, ix.indkey ORDER BY i.relname;[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'roles'[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT i.relname AS name, ix.indisprimary AS primary, ix.indisunique AS unique, ix.indkey AS indkey, array_agg(a.attnum) as column_indexes, array_agg(a.attname) AS column_names, pg_get_indexdef(ix.indexrelid) AS definition FROM pg_class t, pg_class i, pg_index ix, pg_attribute a, pg_namespace s WHERE t.oid = ix.indrelid AND i.oid = ix.indexrelid AND a.attrelid = t.oid AND t.relkind = 'r' and t.relname = 'roles' AND s.oid = t.relnamespace AND s.nspname = 'auth' GROUP BY i.relname, ix.indexrelid, ix.indisprimary, ix.indisunique, ix.indkey ORDER BY i.relname;[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'permissions'[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT i.relname AS name, ix.indisprimary AS primary, ix.indisunique AS unique, ix.indkey AS indkey, array_agg(a.attnum) as column_indexes, array_agg(a.attname) AS column_names, pg_get_indexdef(ix.indexrelid) AS definition FROM pg_class t, pg_class i, pg_index ix, pg_attribute a, pg_namespace s WHERE t.oid = ix.indrelid AND i.oid = ix.indexrelid AND a.attrelid = t.oid AND t.relkind = 'r' and t.relname = 'permissions' AND s.oid = t.relnamespace AND s.nspname = 'auth' GROUP BY i.relname, ix.indexrelid, ix.indisprimary, ix.indisunique, ix.indkey ORDER BY i.relname;[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): CREATE UNIQUE INDEX "permissions_resource_action" ON "auth"."permissions" ("resource", "action")[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'api_consumers'[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT i.relname AS name, ix.indisprimary AS primary, ix.indisunique AS unique, ix.indkey AS indkey, array_agg(a.attnum) as column_indexes, array_agg(a.attname) AS column_names, pg_get_indexdef(ix.indexrelid) AS definition FROM pg_class t, pg_class i, pg_index ix, pg_attribute a, pg_namespace s WHERE t.oid = ix.indrelid AND i.oid = ix.indexrelid AND a.attrelid = t.oid AND t.relkind = 'r' and t.relname = 'api_consumers' AND s.oid = t.relnamespace AND s.nspname = 'auth' GROUP BY i.relname, ix.indexrelid, ix.indisprimary, ix.indisunique, ix.indkey ORDER BY i.relname;[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'provider_keys'[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT i.relname AS name, ix.indisprimary AS primary, ix.indisunique AS unique, ix.indkey AS indkey, array_agg(a.attnum) as column_indexes, array_agg(a.attname) AS column_names, pg_get_indexdef(ix.indexrelid) AS definition FROM pg_class t, pg_class i, pg_index ix, pg_attribute a, pg_namespace s WHERE t.oid = ix.indrelid AND i.oid = ix.indexrelid AND a.attrelid = t.oid AND t.relkind = 'r' and t.relname = 'provider_keys' AND s.oid = t.relnamespace AND s.nspname = 'auth' GROUP BY i.relname, ix.indexrelid, ix.indisprimary, ix.indisunique, ix.indkey ORDER BY i.relname;[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'access_tokens'[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT i.relname AS name, ix.indisprimary AS primary, ix.indisunique AS unique, ix.indkey AS indkey, array_agg(a.attnum) as column_indexes, array_agg(a.attname) AS column_names, pg_get_indexdef(ix.indexrelid) AS definition FROM pg_class t, pg_class i, pg_index ix, pg_attribute a, pg_namespace s WHERE t.oid = ix.indrelid AND i.oid = ix.indexrelid AND a.attrelid = t.oid AND t.relkind = 'r' and t.relname = 'access_tokens' AND s.oid = t.relnamespace AND s.nspname = 'auth' GROUP BY i.relname, ix.indexrelid, ix.indisprimary, ix.indisunique, ix.indkey ORDER BY i.relname;[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): CREATE INDEX "access_tokens_user_id" ON "auth"."access_tokens" ("user_id")[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): CREATE INDEX "access_tokens_consumer_id" ON "auth"."access_tokens" ("consumer_id")[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): CREATE INDEX "access_tokens_token_hash" ON "auth"."access_tokens" ("token_hash")[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): CREATE INDEX "access_tokens_expires_at" ON "auth"."access_tokens" ("expires_at")[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'auth_logs'[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT i.relname AS name, ix.indisprimary AS primary, ix.indisunique AS unique, ix.indkey AS indkey, array_agg(a.attnum) as column_indexes, array_agg(a.attname) AS column_names, pg_get_indexdef(ix.indexrelid) AS definition FROM pg_class t, pg_class i, pg_index ix, pg_attribute a, pg_namespace s WHERE t.oid = ix.indrelid AND i.oid = ix.indexrelid AND a.attrelid = t.oid AND t.relkind = 'r' and t.relname = 'auth_logs' AND s.oid = t.relnamespace AND s.nspname = 'auth' GROUP BY i.relname, ix.indexrelid, ix.indisprimary, ix.indisunique, ix.indkey ORDER BY i.relname;[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): CREATE INDEX "auth_logs_user_id" ON "auth"."auth_logs" ("user_id")[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): CREATE INDEX "auth_logs_consumer_id" ON "auth"."auth_logs" ("consumer_id")[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): CREATE INDEX "auth_logs_event_type" ON "auth"."auth_logs" ("event_type")[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): CREATE INDEX "auth_logs_status" ON "auth"."auth_logs" ("status")[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): CREATE INDEX "auth_logs_created_at" ON "auth"."auth_logs" ("created_at")[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'user_roles'[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT i.relname AS name, ix.indisprimary AS primary, ix.indisunique AS unique, ix.indkey AS indkey, array_agg(a.attnum) as column_indexes, array_agg(a.attname) AS column_names, pg_get_indexdef(ix.indexrelid) AS definition FROM pg_class t, pg_class i, pg_index ix, pg_attribute a, pg_namespace s WHERE t.oid = ix.indrelid AND i.oid = ix.indexrelid AND a.attrelid = t.oid AND t.relkind = 'r' and t.relname = 'user_roles' AND s.oid = t.relnamespace AND s.nspname = 'auth' GROUP BY i.relname, ix.indexrelid, ix.indisprimary, ix.indisunique, ix.indkey ORDER BY i.relname;[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT table_name FROM information_schema.tables WHERE table_schema = 'auth' AND table_name = 'role_permissions'[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (default): SELECT i.relname AS name, ix.indisprimary AS primary, ix.indisunique AS unique, ix.indkey AS indkey, array_agg(a.attnum) as column_indexes, array_agg(a.attname) AS column_names, pg_get_indexdef(ix.indexrelid) AS definition FROM pg_class t, pg_class i, pg_index ix, pg_attribute a, pg_namespace s WHERE t.oid = ix.indrelid AND i.oid = ix.indexrelid AND a.attrelid = t.oid AND t.relkind = 'r' and t.relname = 'role_permissions' AND s.oid = t.relnamespace AND s.nspname = 'auth' GROUP BY i.relname, ix.indexrelid, ix.indisprimary, ix.indisunique, ix.indkey ORDER BY i.relname;[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (c335c48a-b57a-4b14-b8a1-0526575d064a): START TRANSACTION;[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (c335c48a-b57a-4b14-b8a1-0526575d064a): SELECT "id", "name", "description", "priority", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."roles" AS "Role" WHERE "Role"."name" = 'admin';[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (c335c48a-b57a-4b14-b8a1-0526575d064a): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin';[39m
+2025-03-26 13:48:59:4859 [34mdebug[39m: [34mExecuting (c335c48a-b57a-4b14-b8a1-0526575d064a): COMMIT;[39m
+2025-03-26 13:50:30:5030 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 13:51:03:513 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 13:51:03:513 [31merror[39m: [31mError verifying signature: This is not public key[39m
+2025-03-26 13:56:50:5650 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 13:56:51:5651 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 13:56:51:5651 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 13:56:51:5651 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 13:56:51:5651 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 13:56:51:5651 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 13:56:53:5653 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 13:56:53:5653 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 13:56:53:5653 [33mwarn[39m: [33mInvalid signature from consumer: TestConsumer[39m
+2025-03-26 13:56:53:5653 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('7f164eb9-1e94-4b7b-9801-c8d1a3a605ff',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"INVALID_SIGNATURE","location":null,"consumer_name":"TestConsumer"}','missing','2025-03-26 05:56:53.969 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 13:58:24:5824 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 13:58:24:5824 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 13:58:24:5824 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 13:58:24:5824 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 05:58:24.722 +00:00',"updated_at"='2025-03-26 05:58:24.722 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 13:58:24:5824 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 13:58:24:5824 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('2648e97f-7171-491f-87ef-3660a3c0c4de',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','missing','2025-03-26 05:58:24.747 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 13:58:24:5824 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 13:58:49:5849 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 13:58:49:5849 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 13:58:49:5849 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 13:58:49:5849 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 05:58:49.599 +00:00',"updated_at"='2025-03-26 05:58:49.599 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 13:58:49:5849 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 13:58:49:5849 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('f5e61f15-b66f-49c3-87b8-e4e61cf04292',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','missing','2025-03-26 05:58:49.604 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 13:58:49:5849 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:04:50:450 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:04:50:450 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:04:50:450 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:04:50:450 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:04:50.501 +00:00',"updated_at"='2025-03-26 06:04:50.501 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:04:50:450 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:04:50:450 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('cd8833ef-68fc-4892-89e2-37ef8b06c039',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','missing','2025-03-26 06:04:50.523 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:04:50:450 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:05:43:543 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:05:43:543 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:05:43:543 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:05:43:543 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:05:43.041 +00:00',"updated_at"='2025-03-26 06:05:43.041 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:05:43:543 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:05:43:543 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('3f96a768-a63c-4762-a41c-a1e8b4f6562b',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','missing','2025-03-26 06:05:43.045 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:05:43:543 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:05:44:544 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:05:44:544 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:05:44:544 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:05:44:544 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:05:44.031 +00:00',"updated_at"='2025-03-26 06:05:44.031 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:05:44:544 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:05:44:544 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('ab1a6aa8-9d40-4d49-944e-78627d4dadeb',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','missing','2025-03-26 06:05:44.054 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:05:44:544 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:13:15:1315 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:13:15:1315 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:13:16:1316 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:13:16:1316 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:13:16:1316 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:13:16:1316 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:13:30:1330 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:13:31:1331 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:13:31:1331 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:13:31:1331 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:13:31:1331 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:13:31:1331 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:16:00:160 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:16:00:160 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:16:00:160 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:16:00:160 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:16:00:160 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:16:00:160 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:16:18:1618 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:16:18:1618 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:16:18:1618 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:16:18:1618 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:16:18.465 +00:00',"updated_at"='2025-03-26 06:16:18.466 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:16:18:1618 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:16:18:1618 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('9386e190-08c0-4a12-b595-e93e8e383b7a',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:16:18.473 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:16:18:1618 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:18:56:1856 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:18:56:1856 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:18:56:1856 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:18:56:1856 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:18:56:1856 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:18:56:1856 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:18:59:1859 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:18:59:1859 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:18:59:1859 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:18:59:1859 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:18:59:1859 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('40bcfeb0-4f1b-4094-bfbb-777b1b64891b',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:18:59.810 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:18:59:1859 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:19:15:1915 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:19:15:1915 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:19:15:1915 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:19:15:1915 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:19:15:1915 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:19:15:1915 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:19:17:1917 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:19:17:1917 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:19:17:1917 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:19:17:1917 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:19:17.136 +00:00',"updated_at"='2025-03-26 06:19:17.136 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:19:17:1917 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:19:17:1917 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('6910a486-d1e4-4ee8-9d51-e73ad6d5aecc',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:19:17.143 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:19:17:1917 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:24:58:2458 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:24:58:2458 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:24:58:2458 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:24:58:2458 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:24:58:2458 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:24:58:2458 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:25:04:254 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:25:04:254 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:25:04:254 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:25:04:254 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:25:04:254 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:25:04:254 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:25:11:2511 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:25:11:2511 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:25:11:2511 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:25:11:2511 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:25:11.740 +00:00',"updated_at"='2025-03-26 06:25:11.741 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:25:11:2511 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:25:11:2511 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('69e252c0-3b31-436a-89bd-f205da73cf1a',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:25:11.766 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:25:11:2511 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:25:49:2549 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:25:49:2549 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:25:49:2549 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:25:49:2549 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:25:49:2549 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:25:49:2549 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:25:51:2551 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:25:51:2551 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:25:51:2551 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:25:51:2551 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:25:51.645 +00:00',"updated_at"='2025-03-26 06:25:51.645 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:25:51:2551 [31merror[39m: [31mAuthentication error: Cannot read properties of undefined (reading 'lte')[39m
+2025-03-26 14:25:51:2551 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('fd38eabd-8773-45b4-b7f1-daaad245aa8e',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:25:51.667 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:25:51:2551 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:25:58:2558 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:25:58:2558 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:25:58:2558 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:25:58:2558 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:25:58:2558 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:25:58:2558 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:27:18:2718 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:27:18:2718 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:27:19:2719 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:27:19:2719 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:27:19:2719 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:27:19:2719 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:29:04:294 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:29:05:295 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:29:05:295 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:29:05:295 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:29:05:295 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:29:05:295 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:29:07:297 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:29:07:297 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:29:07:297 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:29:07:297 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:29:07.861 +00:00',"updated_at"='2025-03-26 06:29:07.863 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:29:07:297 [34mdebug[39m: [34mExecuting (default): SELECT "id", "public_key", "private_key_encrypted", "key_algorithm", "key_version", "status", "valid_from", "valid_until", "created_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."provider_keys" AS "ProviderKey" WHERE "ProviderKey"."status" = 'active' ORDER BY "ProviderKey"."key_version" DESC LIMIT 1;[39m
+2025-03-26 14:29:07:297 [31merror[39m: [31mAuthentication error: kolom « updated_at » tidak ada[39m
+2025-03-26 14:29:07:297 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('e3de1dfd-04c6-4c57-a29b-b29a7a8a42d1',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:29:07.905 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:29:07:297 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:31:07:317 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:31:08:318 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:31:08:318 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:31:08:318 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:31:08:318 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:31:08:318 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:31:12:3112 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:31:12:3112 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:31:12:3112 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:31:12:3112 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:31:12.624 +00:00',"updated_at"='2025-03-26 06:31:12.627 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:31:12:3112 [34mdebug[39m: [34mExecuting (default): SELECT "id", "public_key", "private_key_encrypted", "key_algorithm", "key_version", "status", "valid_from", "valid_until", "created_by" FROM "auth"."provider_keys" AS "ProviderKey" WHERE "ProviderKey"."status" = 'active' ORDER BY "ProviderKey"."key_version" DESC LIMIT 1;[39m
+2025-03-26 14:31:12:3112 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."access_tokens" ("id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked","created_at","updated_at") VALUES ('23ed6e7d-12a1-4cb9-92c0-84204a77cb9f','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','bec173fd48b5ca6d35438bf6f3782636773b9928d5dcb5eb522eb721dad83c03','simulated-signature','14cb20d8-c14b-46a7-a413-66beb864c379','2025-03-26 07:31:12.661 +00:00','{"ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","issued_at":"2025-03-26T06:31:12.662Z"}',false,'2025-03-26 06:31:12.663 +00:00','2025-03-26 06:31:12.663 +00:00') RETURNING "id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked","revoked_at","created_at","updated_at";[39m
+2025-03-26 14:31:12:3112 [31merror[39m: [31mAuthentication error: kolom  « updated_at » dari relasi « access_tokens » tidak ada[39m
+2025-03-26 14:31:12:3112 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('7eed9393-9aaa-4848-86d0-fe83fea91936',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:31:12.670 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:31:12:3112 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:31:26:3126 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:31:26:3126 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:31:26:3126 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:31:26:3126 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:31:26.873 +00:00',"updated_at"='2025-03-26 06:31:26.874 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:31:26:3126 [34mdebug[39m: [34mExecuting (default): SELECT "id", "public_key", "private_key_encrypted", "key_algorithm", "key_version", "status", "valid_from", "valid_until", "created_by" FROM "auth"."provider_keys" AS "ProviderKey" WHERE "ProviderKey"."status" = 'active' ORDER BY "ProviderKey"."key_version" DESC LIMIT 1;[39m
+2025-03-26 14:31:26:3126 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."access_tokens" ("id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked","created_at","updated_at") VALUES ('1934a017-6b13-457c-bc8d-32ab27d83bef','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','3791f0fa839eea7c7fb9bcce28989b43b55fd71fa589ecc2ce6681e42a4d610f','simulated-signature','14cb20d8-c14b-46a7-a413-66beb864c379','2025-03-26 07:31:26.902 +00:00','{"ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","issued_at":"2025-03-26T06:31:26.902Z"}',false,'2025-03-26 06:31:26.902 +00:00','2025-03-26 06:31:26.902 +00:00') RETURNING "id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked","revoked_at","created_at","updated_at";[39m
+2025-03-26 14:31:26:3126 [31merror[39m: [31mAuthentication error: kolom  « updated_at » dari relasi « access_tokens » tidak ada[39m
+2025-03-26 14:31:26:3126 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('912b01f8-a8d0-4983-b41e-3304f2e5090f',NULL,'6c354e28-13ad-4241-bf08-a0db6dbba09e','login','failure','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":"SYSTEM_ERROR","location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:31:26.907 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:31:26:3126 [31merror[39m: [31mError Response: INTERNAL_ERROR - An internal system error occurred[39m
+2025-03-26 14:33:41:3341 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:33:41:3341 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:33:41:3341 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:33:41:3341 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:33:41:3341 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:33:41:3341 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:33:52:3352 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 14:33:52:3352 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 14:33:53:3353 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 14:33:53:3353 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 14:33:53:3353 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 14:33:53:3353 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 14:33:55:3355 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:33:55:3355 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:33:55:3355 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:33:55:3355 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:33:55.792 +00:00',"updated_at"='2025-03-26 06:33:55.793 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:33:55:3355 [34mdebug[39m: [34mExecuting (default): SELECT "id", "public_key", "private_key_encrypted", "key_algorithm", "key_version", "status", "valid_from", "valid_until", "created_by" FROM "auth"."provider_keys" AS "ProviderKey" WHERE "ProviderKey"."status" = 'active' ORDER BY "ProviderKey"."key_version" DESC LIMIT 1;[39m
+2025-03-26 14:33:55:3355 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."access_tokens" ("id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked") VALUES ('3d082b46-aaf8-4ac8-891a-4a16643b0191','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','0523af7bae16396a4f913161f8c4baa0f854bb2003b75c54b9b686bd1ff550c8','simulated-signature','14cb20d8-c14b-46a7-a413-66beb864c379','2025-03-26 07:33:55.839 +00:00','{"ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","issued_at":"2025-03-26T06:33:55.839Z"}',false) RETURNING "id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked","revoked_at";[39m
+2025-03-26 14:33:55:3355 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:33:55:3355 [32minfo[39m: [32mSuccessful authentication for user: admin[39m
+2025-03-26 14:33:55:3355 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('9cd4996c-cc4e-4346-853c-067210478c54','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','login','success','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":null,"location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:33:55.878 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:34:02:342 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:34:02:342 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:34:02:342 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:34:02:342 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:34:02.413 +00:00',"updated_at"='2025-03-26 06:34:02.414 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:34:02:342 [34mdebug[39m: [34mExecuting (default): SELECT "id", "public_key", "private_key_encrypted", "key_algorithm", "key_version", "status", "valid_from", "valid_until", "created_by" FROM "auth"."provider_keys" AS "ProviderKey" WHERE "ProviderKey"."status" = 'active' ORDER BY "ProviderKey"."key_version" DESC LIMIT 1;[39m
+2025-03-26 14:34:02:342 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."access_tokens" ("id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked") VALUES ('4f2de168-1dd0-4b50-8ac8-42d848df8fa0','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','9e262b8d49d821318d597fe0f02d59f1ee0cacde87f9e9e9a7a9e14b419d12f4','simulated-signature','14cb20d8-c14b-46a7-a413-66beb864c379','2025-03-26 07:34:02.419 +00:00','{"ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","issued_at":"2025-03-26T06:34:02.419Z"}',false) RETURNING "id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked","revoked_at";[39m
+2025-03-26 14:34:02:342 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:34:02:342 [32minfo[39m: [32mSuccessful authentication for user: admin[39m
+2025-03-26 14:34:02:342 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('9953ecd2-3b1b-47d4-ad4b-3abc99aca44a','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','login','success','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":null,"location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:34:02.428 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:34:03:343 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:34:03:343 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:34:03:343 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:34:03:343 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:34:03.766 +00:00',"updated_at"='2025-03-26 06:34:03.766 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:34:03:343 [34mdebug[39m: [34mExecuting (default): SELECT "id", "public_key", "private_key_encrypted", "key_algorithm", "key_version", "status", "valid_from", "valid_until", "created_by" FROM "auth"."provider_keys" AS "ProviderKey" WHERE "ProviderKey"."status" = 'active' ORDER BY "ProviderKey"."key_version" DESC LIMIT 1;[39m
+2025-03-26 14:34:03:343 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."access_tokens" ("id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked") VALUES ('9ab19ddd-a4f3-45b2-8818-822c19bcca11','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','c61783c42451aa753d5ed0c246fbd56e2361fd6a900e3c49bbc9d8757ae92b4b','simulated-signature','14cb20d8-c14b-46a7-a413-66beb864c379','2025-03-26 07:34:03.791 +00:00','{"ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","issued_at":"2025-03-26T06:34:03.791Z"}',false) RETURNING "id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked","revoked_at";[39m
+2025-03-26 14:34:03:343 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:34:03:343 [32minfo[39m: [32mSuccessful authentication for user: admin[39m
+2025-03-26 14:34:03:343 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('f1317fbf-b96e-454d-9412-e3d43881b466','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','login','success','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":null,"location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:34:03.801 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:34:16:3416 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:34:16:3416 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 14:34:16:3416 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:34:16:3416 [34mdebug[39m: [34mExecuting (default): SELECT COUNT(*) FROM auth.user_permissions [39m
+[34m      WHERE user_id = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7' AND permission_name = 'view_consumers'[39m
+2025-03-26 14:34:16:3416 [34mdebug[39m: [34mExecuting (default): SELECT count(*) AS "count" FROM "auth"."api_consumers" AS "Consumer";[39m
+2025-03-26 14:34:16:3416 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" ORDER BY "Consumer"."name" ASC LIMIT 10 OFFSET 0;[39m
+2025-03-26 14:34:43:3443 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:34:43:3443 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 14:34:43:3443 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:34:43:3443 [34mdebug[39m: [34mExecuting (default): SELECT COUNT(*) FROM auth.user_permissions [39m
+[34m      WHERE user_id = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7' AND permission_name = 'view_consumers'[39m
+2025-03-26 14:34:43:3443 [34mdebug[39m: [34mExecuting (default): SELECT count(*) AS "count" FROM "auth"."api_consumers" AS "Consumer";[39m
+2025-03-26 14:34:43:3443 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" ORDER BY "Consumer"."name" ASC LIMIT 10 OFFSET 0;[39m
+2025-03-26 14:34:44:3444 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:34:44:3444 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 14:34:44:3444 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:34:44:3444 [34mdebug[39m: [34mExecuting (default): SELECT COUNT(*) FROM auth.user_permissions [39m
+[34m      WHERE user_id = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7' AND permission_name = 'view_consumers'[39m
+2025-03-26 14:34:44:3444 [34mdebug[39m: [34mExecuting (default): SELECT count(*) AS "count" FROM "auth"."api_consumers" AS "Consumer";[39m
+2025-03-26 14:34:44:3444 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" ORDER BY "Consumer"."name" ASC LIMIT 10 OFFSET 0;[39m
+2025-03-26 14:35:16:3516 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:35:16:3516 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 14:35:16:3516 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:35:16:3516 [34mdebug[39m: [34mExecuting (default): SELECT COUNT(*) FROM auth.user_permissions [39m
+[34m      WHERE user_id = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7' AND permission_name = 'view_consumers'[39m
+2025-03-26 14:35:16:3516 [34mdebug[39m: [34mExecuting (default): SELECT count(*) AS "count" FROM "auth"."api_consumers" AS "Consumer";[39m
+2025-03-26 14:35:16:3516 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" ORDER BY "Consumer"."name" ASC LIMIT 10 OFFSET 0;[39m
+2025-03-26 14:35:52:3552 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:35:52:3552 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 14:35:52:3552 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:35:52:3552 [34mdebug[39m: [34mExecuting (default): SELECT COUNT(*) FROM auth.user_permissions [39m
+[34m      WHERE user_id = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7' AND permission_name = 'view_consumers'[39m
+2025-03-26 14:36:07:367 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:36:07:367 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 14:36:07:367 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:36:07:367 [34mdebug[39m: [34mExecuting (default): SELECT COUNT(*) FROM auth.user_permissions [39m
+[34m      WHERE user_id = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7' AND permission_name = 'view_consumers'[39m
+2025-03-26 14:36:07:367 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:37:00:370 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:37:19:3719 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:37:19:3719 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 14:37:19:3719 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:37:19:3719 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:37:36:3736 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:37:36:3736 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:37:36:3736 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:37:36:3736 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:37:36.086 +00:00',"updated_at"='2025-03-26 06:37:36.086 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:37:36:3736 [34mdebug[39m: [34mExecuting (default): SELECT "id", "public_key", "private_key_encrypted", "key_algorithm", "key_version", "status", "valid_from", "valid_until", "created_by" FROM "auth"."provider_keys" AS "ProviderKey" WHERE "ProviderKey"."status" = 'active' ORDER BY "ProviderKey"."key_version" DESC LIMIT 1;[39m
+2025-03-26 14:37:36:3736 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."access_tokens" ("id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked") VALUES ('b95cf601-71e9-407e-9655-7ae659d27b93','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','82e9f390b6027cc80544028e09a727974df84367c8a5df3dda4653838ff93a3e','simulated-signature','14cb20d8-c14b-46a7-a413-66beb864c379','2025-03-26 07:37:36.112 +00:00','{"ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","issued_at":"2025-03-26T06:37:36.112Z"}',false) RETURNING "id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked","revoked_at";[39m
+2025-03-26 14:37:36:3736 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:37:36:3736 [32minfo[39m: [32mSuccessful authentication for user: admin[39m
+2025-03-26 14:37:36:3736 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('6301f67a-3247-4031-95d5-096ddd0b06d2','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','login','success','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":null,"location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:37:36.122 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:37:39:3739 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:37:39:3739 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 14:37:39:3739 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:37:39:3739 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:37:42:3742 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:37:42:3742 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:37:42:3742 [34mdebug[39m: [34mExecuting (default): SELECT "id", "username", "email", "password_hash", "salt", "mfa_settings", "is_active", "is_locked", "failed_attempts", "last_login", "password_changed_at", "created_by", "updated_by", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."users" AS "User" WHERE "User"."username" = 'admin' AND "User"."is_active" = true;[39m
+2025-03-26 14:37:42:3742 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."users" SET "last_login"='2025-03-26 06:37:42.927 +00:00',"updated_at"='2025-03-26 06:37:42.927 +00:00' WHERE "id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7'[39m
+2025-03-26 14:37:42:3742 [34mdebug[39m: [34mExecuting (default): SELECT "id", "public_key", "private_key_encrypted", "key_algorithm", "key_version", "status", "valid_from", "valid_until", "created_by" FROM "auth"."provider_keys" AS "ProviderKey" WHERE "ProviderKey"."status" = 'active' ORDER BY "ProviderKey"."key_version" DESC LIMIT 1;[39m
+2025-03-26 14:37:42:3742 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."access_tokens" ("id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked") VALUES ('6de08c46-13ad-4a3e-8cce-c72561d399b5','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','846b625e10cc636ba2ffb3a271a1f2861c8880402c2ec8b120e7683c7f8989c7','simulated-signature','14cb20d8-c14b-46a7-a413-66beb864c379','2025-03-26 07:37:42.946 +00:00','{"ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","issued_at":"2025-03-26T06:37:42.946Z"}',false) RETURNING "id","user_id","consumer_id","token_hash","signature","provider_key_id","expires_at","metadata","is_revoked","revoked_at";[39m
+2025-03-26 14:37:42:3742 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:37:42:3742 [32minfo[39m: [32mSuccessful authentication for user: admin[39m
+2025-03-26 14:37:42:3742 [34mdebug[39m: [34mExecuting (default): INSERT INTO "auth"."auth_logs" ("id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at") VALUES ('5695f945-7e8e-49e2-83c5-9c2a4c959e9d','d10bab87-9d98-4208-ac2c-5f7f4b0a88f7','6c354e28-13ad-4241-bf08-a0db6dbba09e','login','success','{"username":"admin","ip_address":"::1","user_agent":"PostmanRuntime/7.43.2","reason":null,"location":null,"consumer_name":"TestConsumer"}','valid','2025-03-26 06:37:42.950 +00:00') RETURNING "id","user_id","consumer_id","event_type","status","metadata","signature_status","created_at";[39m
+2025-03-26 14:37:45:3745 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:37:45:3745 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 14:37:45:3745 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:37:45:3745 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 14:38:45:3845 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 14:38:45:3845 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 14:38:45:3845 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 14:38:45:3845 [34mdebug[39m: [34mExecuting (default): SELECT COUNT(*) FROM auth.user_permissions [39m
+[34m      WHERE user_id = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7' AND permission_name = 'create_consumer'[39m
+2025-03-26 14:38:45:3845 [34mdebug[39m: [34mExecuting (5595733e-f438-4d17-8f6f-5a604a993c3d): START TRANSACTION;[39m
+2025-03-26 14:38:45:3845 [34mdebug[39m: [34mExecuting (5595733e-f438-4d17-8f6f-5a604a993c3d): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'NewConsumer';[39m
+2025-03-26 14:38:45:3845 [34mdebug[39m: [34mExecuting (5595733e-f438-4d17-8f6f-5a604a993c3d): INSERT INTO "auth"."api_consumers" ("id","name","api_key_hash","api_key_salt","public_key","key_algorithm","key_version","allowed_ips","is_active","created_at","updated_at") VALUES ('702859cc-624c-4659-a583-dd00b6639ce7','NewConsumer','d53dd599ea7944748070e09e041b9b48b64d23042daf84e346a10965e06419e4','f15da0058525d8f9','-----BEGIN PUBLIC KEY-----[39m
+[34mMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyN5MKZ1KfNMCW7uUmH3E[39m
+[34ma6PezEbLiElHkvEoTTTFJPgT9dRnwrqW+EkR0jnllFInK3YcLYKpz1BLahm0qpBG[39m
+[34mRpioyzIeJ+wWm0FX2S62bMWa2XCB/R8enRf6yOYQfmJcYJTTYEcRI4FYCzPgL+/m[39m
+[34mFt6ydS8dp0q1pJcGTYO/JtMDlM9bOr8BUq23GNnYPuUQQmPsWmH5OnXfVWFsFCKQ[39m
+[34m9TcQVICUhqwYJUQWnRO6Z2UxJlMxfAQrjVLtcLIcRg/BjmtCWQ+BNwUVMQQNNRFE[39m
+[34mxMC7n2vuWN0jzxQ+7eiUbGUdnycw+FLq5PVAQxpKTkSFvG/CjZgGE6T4H1JNykG5[39m
+[34mQwIDAQAB[39m
+[34m-----END PUBLIC KEY-----','RSA-2048',1,ARRAY['192.168.1.1/32','10.0.0.0/24']::INET[],true,'2025-03-26 06:38:45.490 +00:00','2025-03-26 06:38:45.490 +00:00') RETURNING "id","name","api_key_hash","api_key_salt","public_key","key_algorithm","key_version","allowed_ips","is_active","created_at","updated_at";[39m
+2025-03-26 14:38:45:3845 [34mdebug[39m: [34mExecuting (5595733e-f438-4d17-8f6f-5a604a993c3d): COMMIT;[39m
+2025-03-26 14:38:45:3845 [32minfo[39m: [32mAPI consumer created: NewConsumer[39m
+2025-03-26 15:01:29:129 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 15:01:29:129 [34mdebug[39m: [34mExecuting (default): SELECT "id", "user_id", "consumer_id", "token_hash", "signature", "provider_key_id", "expires_at", "metadata", "is_revoked", "revoked_at" FROM "auth"."access_tokens" AS "Token" WHERE "Token"."id" = '9ab19ddd-a4f3-45b2-8818-822c19bcca11';[39m
+2025-03-26 15:01:29:129 [34mdebug[39m: [34mExecuting (default): SELECT "User"."id", "User"."username", "User"."email", "User"."password_hash", "User"."salt", "User"."mfa_settings", "User"."is_active", "User"."is_locked", "User"."failed_attempts", "User"."last_login", "User"."password_changed_at", "User"."created_by", "User"."updated_by", "User"."created_at" AS "createdAt", "User"."updated_at" AS "updatedAt", "Roles"."id" AS "Roles.id", "Roles"."name" AS "Roles.name", "Roles"."description" AS "Roles.description", "Roles"."priority" AS "Roles.priority", "Roles"."created_at" AS "Roles.createdAt", "Roles"."updated_at" AS "Roles.updatedAt" FROM "auth"."users" AS "User" LEFT OUTER JOIN ( "auth"."user_roles" AS "Roles->user_roles" INNER JOIN "auth"."roles" AS "Roles" ON "Roles"."id" = "Roles->user_roles"."role_id") ON "User"."id" = "Roles->user_roles"."user_id" WHERE "User"."id" = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7';[39m
+2025-03-26 15:01:29:129 [34mdebug[39m: [34mExecuting (default): SELECT COUNT(*) FROM auth.user_permissions [39m
+[34m      WHERE user_id = 'd10bab87-9d98-4208-ac2c-5f7f4b0a88f7' AND permission_name = 'update_consumer'[39m
+2025-03-26 15:01:29:129 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e';[39m
+2025-03-26 15:01:29:129 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."api_consumers" SET "api_key_hash"='16eccd35fff3be15b8e5d98bb0499dbf0c191ec07e6cf4856f343c069f0c323b',"api_key_salt"='c38a95e84c5cdd1f',"updated_at"='2025-03-26 07:01:29.134 +00:00' WHERE "id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e'[39m
+2025-03-26 15:01:29:129 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."access_tokens" SET "is_revoked"=true,"revoked_at"='2025-03-26 07:01:29.141 +00:00' WHERE "consumer_id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e' AND "is_revoked" = false[39m
+2025-03-26 15:01:29:129 [32minfo[39m: [32mAPI key regenerated for consumer: TestConsumer[39m
+2025-03-26 15:01:44:144 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 15:02:08:28 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer' AND "Consumer"."is_active" = true;[39m
+2025-03-26 15:05:34:534 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 15:05:34:534 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 15:05:34:534 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 15:05:34:534 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 15:05:34:534 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 15:05:34:534 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 15:05:36:536 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 15:05:36:536 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 15:05:37:537 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 15:05:37:537 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 15:05:37:537 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 15:05:37:537 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 15:06:51:651 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 15:06:51:651 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 15:06:52:652 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 15:06:52:652 [34mdebug[39m: [34mExecuting (default): SELECT "id", "name", "api_key_hash", "api_key_salt", "public_key", "key_algorithm", "key_version", "allowed_ips", "is_active", "created_at" AS "createdAt", "updated_at" AS "updatedAt" FROM "auth"."api_consumers" AS "Consumer" WHERE "Consumer"."name" = 'TestConsumer';[39m
+2025-03-26 15:06:52:652 [34mdebug[39m: [34mExecuting (default): UPDATE "auth"."api_consumers" SET "api_key_hash"='a3923b4d22815bfd60cb600e57791c8594d546bf12a4df355e03fe7b42c9ede9',"api_key_salt"='b81c2b1b613fc9ee',"updated_at"='2025-03-26 07:06:52.032 +00:00' WHERE "id" = '6c354e28-13ad-4241-bf08-a0db6dbba09e'[39m

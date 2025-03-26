@@ -419,6 +419,9 @@ import {
       // Verifikasi API key
       const apiKeyHash = hashData(apiKey + consumer.api_key_salt);
       const isValid = apiKeyHash === consumer.api_key_hash;
+
+      console.log('apiKeyHash', apiKeyHash);
+      console.log('consumer.api_key_hash', consumer.api_key_hash);
       
       if (!isValid) {
         return {

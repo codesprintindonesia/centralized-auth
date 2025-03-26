@@ -77,7 +77,7 @@ export const initTokenModel = (sequelize) => {
   }, {
     tableName: 'access_tokens',
     schema: sequelize.options.searchPath[0], // menggunakan schema yang dikonfigurasi
-    timestamps: true, // enables createdAt and updatedAt
+    timestamps: false, // enables createdAt and updatedAt
     underscored: true, // use snake_case for fields
     indexes: [
       {
