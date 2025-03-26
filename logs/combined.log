@@ -945,3 +945,9 @@
 2025-03-26 15:25:39:2539 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
 2025-03-26 15:25:39:2539 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
 2025-03-26 15:25:39:2539 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
+2025-03-26 15:25:52:2552 [32minfo[39m: [32mLogger initialized with level: debug[39m
+2025-03-26 15:25:52:2552 [32minfo[39m: [32mModel associations setup completed[39m
+2025-03-26 15:25:52:2552 [34mdebug[39m: [34mExecuting (default): SELECT 1+1 AS result[39m
+2025-03-26 15:25:52:2552 [32minfo[39m: [32mKoneksi database berhasil dibuat[39m
+2025-03-26 15:25:52:2552 [32minfo[39m: [32mHTTP server enabled on port 3000[39m
+2025-03-26 15:25:52:2552 [32minfo[39m: [32mHTTP Server listening on port 3000[39m
